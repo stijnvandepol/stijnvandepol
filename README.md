@@ -1,4 +1,6 @@
 # Hi 👋, I'm Stijn  
+[![Profile views](https://komarev.com/ghpvc/?username=stijnvandepol&label=Visitors&color=blue&style=flat)](https://github.com/stijnvandepol)
+
 An IT infrastructure & cybersecurity student from the Netherlands  
 
 **stijnvandepol**

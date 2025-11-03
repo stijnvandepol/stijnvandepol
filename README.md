@@ -13,6 +13,4 @@ An IT infrastructure & cybersecurity student from the Netherlands
 
 💡 More about me and my projects: [stijnvandepol.nl](https://stijnvandepol.nl)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Automation+%7C+Infrastructure+%7C+Security;Always+self-hosting+what+I+can)](https://git.io/typing-svg)
-
-![Stijn's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stijnvandepol&theme=github-dark)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=99+problems+but+DNS+is+all+of+them;I+hate+Windows+updates;Cloud?+No+thanks,+I+prefer+my+own+rack.;sudo+make+me+a+sandwich;Still+waiting+for+Windows+to+update...)](https://git.io/typing-svg)

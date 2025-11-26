@@ -11,6 +11,6 @@ An IT infrastructure & cybersecurity student from the Netherlands
 
 🧰 My homelab runs mostly **on-premises** and **self-hosted**, managed with **Proxmox**, and a mix of containers and VMs.
 
-💡 More about me and my projects: [stijnvandepol.nl](https://stijnvandepol.nl)
+💡 More about me and my projects: [**Stijnvandepol.nl**](https://stijnvandepol.nl)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=99+problems+but+DNS+is+all+of+them;Cloud?+No+thanks;sudo+make+me+a+sandwich;Still+waiting+for+Windows+to+update...)](https://git.io/typing-svg)

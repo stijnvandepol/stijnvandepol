@@ -5,7 +5,7 @@ An IT infrastructure & cybersecurity student from the Netherlands
 
 ### My work:
 
-🛜 Developed [**IkBenGeenHelpdesk.nl**](https://ikbengeenhelpdesk.nl/)).
+🛜 Developed [**IkBenGeenHelpdesk.nl**](https://ikbengeenhelpdesk.nl/).
 
 ⚙️ Many of my projects use **GitHub Workflows** for automation, from building containers to syncing updates across environments.
 

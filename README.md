@@ -5,8 +5,6 @@ An IT infrastructure & cybersecurity student from the Netherlands
 
 ### My work:
 
-🛜 Developed [**IkBenGeenHelpdesk.nl**](https://ikbengeenhelpdesk.nl/).
-
 🍟 Developed [**SnackSpot.online**](https://snackspot.online/).
 
 ⚙️ Many of my projects use **GitHub Workflows** for automation, from building containers to syncing updates across environments.
